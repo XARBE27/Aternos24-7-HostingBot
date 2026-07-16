@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
-    "version": "",
+    "ip": "node-fi-free-01.tickhosting.com:61298",
+    "port": 61298,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
