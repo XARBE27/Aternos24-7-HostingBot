@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "node-fi-free-01.tickhosting.com:61298",
+    "ip": "node-fi-free-01.tickhosting.com",
     "port": 61298,
     "version": "1.21.11",
     "try-creative": false
