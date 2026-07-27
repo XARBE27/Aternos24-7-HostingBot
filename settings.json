@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "aquasmpmc.tkmc.net",
+    "ip": "node-de-free-01.tickhosting.com",
     "port": 52485,
     "version": "1.21.11",
     "try-creative": false
