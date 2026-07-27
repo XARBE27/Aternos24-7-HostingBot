@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "AquaSMP_Bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "node-fi-free-01.tickhosting.com",
-    "port": 61298,
+    "ip": "aquasmpmc.tkmc.net",
+    "port": 52485,
     "version": "1.21.11",
     "try-creative": false
   },
